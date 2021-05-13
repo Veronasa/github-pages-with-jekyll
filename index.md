@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Index"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here you will find:
+    `some news`
+    "some extras"
+    **some addionals**
+
