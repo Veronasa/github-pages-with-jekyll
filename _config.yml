@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Portafolio Veronica Menacho
+author: Veronica 
+email: veronasa@gmx.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  Here I will create my portafolio. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+linkedin_username: https://www.linkedin.com/in/veronica-menacho # DO NOT include the @ character, or else the build will fail!
+github_username:  veronasa.github.io # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
