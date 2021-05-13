@@ -1,10 +1,4 @@
-Some new stuff created in a new page
-*alpha*
-**beta**
-//gamma
-{delta}
-%duno%
-#ido#
-+ono+
-´hola mundo´
-'y universo'
+---
+title: "Portafolio"
+date: 2021-05-13
+---
